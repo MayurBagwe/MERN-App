@@ -1,0 +1,43 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.headerName {
+	text-align: center;
+	border: 3px solid #73AD21;
+	margin-left: 750px;
+	width: fit-content;
+	color: blue
+}
+
+.center {
+	margin: auto;
+	width: 40%;
+	border: 3px solid #73AD21;
+	padding: 10px;
+    margin-top: 30px;
+    font-size: larger;
+}
+
+.wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* .button {
+	margin-top: 50px;
+} */
+.button {
+    
+    margin-top: 22px;
+    background: #4E9CAF;
+    padding: 10px;
+   
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+
